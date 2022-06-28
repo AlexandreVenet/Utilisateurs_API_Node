@@ -1,8 +1,6 @@
-# Utilisateurs_API_Node
+# Notes
 
-API Node.js gérant des données d'utilisateurs au format json.
-
-## A faire
+## A FAIRE
 
 Pour les **routes** : 
 - tests sur les entrées utilisateur (url de requête, corps de requête),
